@@ -1,7 +1,7 @@
 Focus Buddy
 Version 1.0
 07/10/2021
-By Liam Ault, Syed Moiz, Peter McQuin
+By Liam Ault, Syed Moiz, Peter McQuin. Mohammad Aziz
 
 Description
 Many people suffer with losing focus. Study buddy looks to fix this by creating
